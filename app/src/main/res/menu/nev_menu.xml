@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--需要给group设置id，才会出现分割线。-->
+    <group android:id="@+id/gp">
+        <item android:title="登录页面"/>
+        <item android:title="登录页面"/>
+    </group>
+    <item android:title="Other">
+        <menu >
+            <item android:title="登录页面"/>
+            <item android:title="登录页面"/>
+        </menu>
+    </item>
+
+</menu>
